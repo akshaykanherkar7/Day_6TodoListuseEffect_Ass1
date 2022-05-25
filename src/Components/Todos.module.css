@@ -1,0 +1,40 @@
+.prevbtn{
+    /* background-color: teal; */
+    color: black;
+    display: block;
+}
+.btnParentBox{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    width: fit-content;
+    margin: auto;
+    margin-top: 10px;
+}
+.inp{
+    padding: 12px 15px 12px 15px;
+    border-radius: 10px;
+    border-color: teal;
+    width: 18%;
+}
+.btnadd{
+    font-size: 18px;
+    padding: 11px;
+    width: 3%;
+    /* border: 1px solid red; */
+    border-radius: 10px;
+    margin-left: 2px;
+    border-color: brown;
+    background-color: teal;
+    color: white;
+    border: transparent;
+}
+.mapbox{
+    justify-content: center;
+    width: 15%;
+    padding: 10px;
+    margin: auto;
+    border: 2px solid teal;
+    margin-top: 5px;
+    border-radius: 10px;    
+}
