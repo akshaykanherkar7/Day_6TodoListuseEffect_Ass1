@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Todo 1",
+      "isCompleted": "true"
+    },
+    {
+      "id": 2,
+      "text": "Todo 2",
+      "isCompleted": "true"
+    },
+    {
+      "id": 3,
+      "text": "Todo 3",
+      "isCompleted": "true"
+    },
+    {
+      "text": "Akhsay",
+      "isComplited": false,
+      "id": 4
+    },
+    {
+      "text": "Akshay",
+      "isComplited": false,
+      "id": 5
+    },
+    {
+      "text": "Manish",
+      "isComplited": false,
+      "id": 7
+    }
+  ]
+}
